@@ -3,7 +3,7 @@
 
 This repo presents 16 assembly codes of 8085μ, executed on a assembler simulator - **Microprocessor 8085 Simulator Software Kit 1.0**.  
 Each folder contains *snapshot* of the **program**, which contains the **memory image**, **register values** and **flag status** after they are executed.  
-The folder also has an image of detailed description related to all instructions in the program.
+The folder also has a document, which describes all the instructions in the program.
 
 **Contents :**
 * [P1](/P1) - Immediate Addition of two eight bit numbers.
